@@ -19,7 +19,12 @@
     }
   ],
   "start_url": ".",
+  "dir": "ltr",
+  "display_override": ["standalone", "fullscreen"],
   "display": "standalone",
+  "orientation": "portrait",
+  "lang": "es-ES",
   "theme_color": "#424242",
+  "scope": "/",
   "background_color": "#f5f5f5"
 }
